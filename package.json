@@ -40,5 +40,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://eunaJ.github.io/react-for-beginners/"
+  "homepage": "https://eunaJ.github.io/react-for-beginners/",
+  "devDependencies": {
+    "shx": "^0.3.4"
+  }
 }
